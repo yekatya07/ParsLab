@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsLab", "ParsLab\ParsLab.csproj", "{93DBA4AF-EF52-4B59-8C50-B9D1C9A7A90F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{20DEE785-DB45-4DED-B756-981418B0CA49} = {20DEE785-DB45-4DED-B756-981418B0CA49}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{20DEE785-DB45-4DED-B756-981418B0CA49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93DBA4AF-EF52-4B59-8C50-B9D1C9A7A90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93DBA4AF-EF52-4B59-8C50-B9D1C9A7A90F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93DBA4AF-EF52-4B59-8C50-B9D1C9A7A90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93DBA4AF-EF52-4B59-8C50-B9D1C9A7A90F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20DEE785-DB45-4DED-B756-981418B0CA49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20DEE785-DB45-4DED-B756-981418B0CA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20DEE785-DB45-4DED-B756-981418B0CA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20DEE785-DB45-4DED-B756-981418B0CA49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C58D44B0-DF29-43BC-8B85-D489A4950A77}
+	EndGlobalSection
+EndGlobal
