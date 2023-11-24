@@ -10,6 +10,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParsLab", "ParsLab\ParsLab.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{20DEE785-DB45-4DED-B756-981418B0CA49}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppTests", "AppTests\AppTests.csproj", "{CE75E047-90CD-4C0B-AB99-3DB4112C2D31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{20DEE785-DB45-4DED-B756-981418B0CA49}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20DEE785-DB45-4DED-B756-981418B0CA49}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20DEE785-DB45-4DED-B756-981418B0CA49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE75E047-90CD-4C0B-AB99-3DB4112C2D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE75E047-90CD-4C0B-AB99-3DB4112C2D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE75E047-90CD-4C0B-AB99-3DB4112C2D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE75E047-90CD-4C0B-AB99-3DB4112C2D31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
